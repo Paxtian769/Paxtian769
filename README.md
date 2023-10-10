@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paxtian769
 - 👀 I’m interested in video game development. 
-- 🌱 I’m currently learning Godot and C#.
+- 🌱 I’m currently learning Godot, using both C# and GDScript.
 - 💞️ I’m looking to collaborate on game jams as a programmer and designer, interested in finding others interested in designing in Godot, graphic artists, sound artists, and the like.
 - 📫 You can reach me on Mastodon: @Paxtian@mastodon.gamedev.place
 
